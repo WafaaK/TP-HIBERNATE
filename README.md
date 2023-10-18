@@ -15,6 +15,5 @@ Voici le diagramme de classe qui le represente :
 <img width="622" alt="H3" src="https://github.com/WafaaK/TP-HIBERNATE/assets/147450674/7592ea7e-3ae9-4bc6-8f0d-b04078ea9d04">
 
 
-# TAR- Application de gestion de l’état civil des citoyens de notre province
 
 
