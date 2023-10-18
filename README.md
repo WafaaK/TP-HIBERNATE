@@ -9,7 +9,7 @@ Voici le digramme de classe de cette gestion de produit :
 
 
 
-# TP- Aplication de gestion de projet
+# TP- Application de gestion de projet
 Ce programme consiste en une application de gestion de projet.
 Voici le diagramme de classe qui le represente : 
 <img width="622" alt="H3" src="https://github.com/WafaaK/TP-HIBERNATE/assets/147450674/7592ea7e-3ae9-4bc6-8f0d-b04078ea9d04">
